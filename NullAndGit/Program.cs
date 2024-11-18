@@ -36,6 +36,8 @@
             string? name4 = "Bacon4";
 
             string b2 = "Commmmmmmmit";
+
+            string b1 = "Commmmmmmiiititititi!!!!";
         }
     }
 }
