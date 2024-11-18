@@ -34,6 +34,8 @@
             }
 
             string? name4 = "Bacon4";
+
+            string b2 = "Commmmmmmmit";
         }
     }
 }
