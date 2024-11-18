@@ -22,6 +22,10 @@
             string? name = null;
             name ??= "Default name";
             Console.WriteLine(name);
+
+            string? name2 = "Bacon";
+            int name2Length = name2?.Length ?? 0;
+            Console.WriteLine($"{name2Length}");
         }
     }
 }
