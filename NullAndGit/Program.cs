@@ -40,6 +40,8 @@
             string b1 = "Commmmmmmiiititititi!!!!";
 
             string main = "main";
+
+            string main2 = "main2";
         }
     }
 }
