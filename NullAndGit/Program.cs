@@ -38,6 +38,8 @@
             string b2 = "Commmmmmmmit";
 
             string b1 = "Commmmmmmiiititititi!!!!";
+
+            string main = "main";
         }
     }
 }
