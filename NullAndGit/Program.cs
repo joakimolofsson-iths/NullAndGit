@@ -32,6 +32,8 @@
             {
                 Console.WriteLine($"{name3} is not null");
             }
+
+            string? name4 = "Bacon4";
         }
     }
 }
