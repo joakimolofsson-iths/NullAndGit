@@ -26,6 +26,12 @@
             string? name2 = "Bacon";
             int name2Length = name2?.Length ?? 0;
             Console.WriteLine($"{name2Length}");
+
+            string? name3 = "Bacon3";
+            if(name3 is not null)
+            {
+                Console.WriteLine($"{name3} is not null");
+            }
         }
     }
 }
