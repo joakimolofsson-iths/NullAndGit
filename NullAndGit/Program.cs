@@ -18,6 +18,10 @@
             {
                 Console.WriteLine("Null...");
             }
+
+            string? name = null;
+            name ??= "Default name";
+            Console.WriteLine(name);
         }
     }
 }
